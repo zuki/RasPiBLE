@@ -1,6 +1,8 @@
-# 操作方法
+# RasPiとiPod TouchをBLEでつないでLチカ
 
-## RasPi側
+## 操作方法
+
+### RasPi側
 
 1. ペリフェラルを立ち上げる
 
@@ -9,7 +11,7 @@
   $ sudo ./peripheral.py
   ```
 
-## iPos側
+### iPos側
 
 1. 「設定」アプリでBluetooshを有効化
 2. `RasPiBLE` アプリを立ち上げる
